@@ -27,3 +27,6 @@ status-website:
       href: https://github.com/alexanderl19/status
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  uptime: "0 0 0 0 0"
