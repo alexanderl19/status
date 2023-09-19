@@ -3,10 +3,12 @@ owner: alexanderl19 # Your GitHub organization or username, where this repositor
 repo: status # The name of this repository
 
 sites:
-  - name: alexanderliu.com
-    url: https://alexanderliu.com
   - name: receipts.alexanderliu.com
     url: https://receipts.alexanderliu.com/CGjE1JTKfPfqYjueoptkq
+  - name: alexanderliu.com Landing
+    url: https://alexanderliu.com
+  - name: alexanderliu.com Post
+    url: https://alexanderliu.com/post/anchoring-power-strips-at-duke-s-innovation-co-lab
 
 status-website:
   theme: night
