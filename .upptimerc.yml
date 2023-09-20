@@ -29,4 +29,5 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 workflowSchedule:
+  responseTime: "0 1,5,9,13,17,21 * * *"
   uptime: "0 0 1 1 0"
