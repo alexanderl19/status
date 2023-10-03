@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/receipts.alexanderliu.com.ico",
     "slug": "receipts-alexanderliu-com",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 1052,
-    "timeDay": 1091,
-    "timeWeek": 1082,
-    "timeMonth": 1052,
-    "timeYear": 1052,
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1045,
+    "timeDay": 965,
+    "timeWeek": 980,
+    "timeMonth": 1045,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2023-09-19": 39
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 414,
-    "timeWeek": 462,
-    "timeMonth": 463,
-    "timeYear": 463,
+    "time": 465,
+    "timeDay": 493,
+    "timeWeek": 469,
+    "timeMonth": 465,
+    "timeYear": 465,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 211,
-    "timeWeek": 320,
-    "timeMonth": 356,
-    "timeYear": 356,
+    "time": 359,
+    "timeDay": 385,
+    "timeWeek": 323,
+    "timeMonth": 359,
+    "timeYear": 359,
     "dailyMinutesDown": {}
   }
 ]
