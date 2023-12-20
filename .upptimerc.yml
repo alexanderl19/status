@@ -9,6 +9,8 @@ sites:
     url: https://alexanderliu.com
   - name: alexanderliu.com Post
     url: https://alexanderliu.com/post/anchoring-power-strips-at-duke-s-innovation-co-lab
+  - name: GitHub Profile GIF
+    url: https://alexanderliu.com/api/internal/github-profile/gif
 
 status-website:
   theme: night
