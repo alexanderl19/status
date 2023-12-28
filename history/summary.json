@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
-    "time": 1748,
-    "timeDay": 496,
-    "timeWeek": 532,
-    "timeMonth": 1941,
-    "timeYear": 1748,
+    "time": 1747,
+    "timeDay": 494,
+    "timeWeek": 528,
+    "timeMonth": 1934,
+    "timeYear": 1747,
     "dailyMinutesDown": {
       "2023-12-15": 9,
       "2023-09-19": 39
@@ -25,18 +25,20 @@
     "url": "https://alexanderliu.com",
     "icon": "https://icons.duckduckgo.com/ip3/alexanderliu.com.ico",
     "slug": "alexanderliu-com-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 996,
-    "timeWeek": 684,
-    "timeMonth": 690,
-    "timeYear": 591,
-    "dailyMinutesDown": {}
+    "time": 593,
+    "timeDay": 1054,
+    "timeWeek": 704,
+    "timeMonth": 695,
+    "timeYear": 593,
+    "dailyMinutesDown": {
+      "2023-12-28": 0
+    }
   },
   {
     "name": "alexanderliu.com Post",
@@ -50,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 400,
-    "timeDay": 506,
-    "timeWeek": 293,
+    "timeDay": 508,
+    "timeWeek": 299,
     "timeMonth": 414,
     "timeYear": 400,
     "dailyMinutesDown": {}
@@ -67,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 815,
-    "timeWeek": 555,
-    "timeMonth": 575,
-    "timeYear": 575,
+    "time": 589,
+    "timeDay": 917,
+    "timeWeek": 562,
+    "timeMonth": 589,
+    "timeYear": 589,
     "dailyMinutesDown": {}
   }
 ]
