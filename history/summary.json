@@ -25,19 +25,19 @@
     "url": "https://alexanderliu.com",
     "icon": "https://icons.duckduckgo.com/ip3/alexanderliu.com.ico",
     "slug": "alexanderliu-com-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 593,
-    "timeDay": 1054,
-    "timeWeek": 704,
-    "timeMonth": 695,
+    "timeDay": 1036,
+    "timeWeek": 709,
+    "timeMonth": 696,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2023-12-28": 0
+      "2023-12-28": 5
     }
   },
   {
