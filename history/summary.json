@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
-    "time": 1747,
-    "timeDay": 494,
-    "timeWeek": 528,
-    "timeMonth": 1934,
-    "timeYear": 1747,
+    "time": 1735,
+    "timeDay": 443,
+    "timeWeek": 515,
+    "timeMonth": 1879,
+    "timeYear": 1735,
     "dailyMinutesDown": {
       "2023-12-15": 9,
       "2023-09-19": 39
@@ -27,18 +27,16 @@
     "slug": "alexanderliu-com-landing",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 1036,
-    "timeWeek": 709,
-    "timeMonth": 696,
-    "timeYear": 593,
-    "dailyMinutesDown": {
-      "2023-12-28": 5
-    }
+    "time": 598,
+    "timeDay": 1074,
+    "timeWeek": 767,
+    "timeMonth": 708,
+    "timeYear": 598,
+    "dailyMinutesDown": {}
   },
   {
     "name": "alexanderliu.com Post",
@@ -51,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 400,
-    "timeDay": 508,
-    "timeWeek": 299,
-    "timeMonth": 414,
-    "timeYear": 400,
+    "time": 398,
+    "timeDay": 158,
+    "timeWeek": 290,
+    "timeMonth": 401,
+    "timeYear": 398,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 917,
-    "timeWeek": 562,
-    "timeMonth": 589,
-    "timeYear": 589,
+    "time": 547,
+    "timeDay": 327,
+    "timeWeek": 533,
+    "timeMonth": 547,
+    "timeYear": 547,
     "dailyMinutesDown": {}
   }
 ]
