@@ -6,9 +6,9 @@
     "slug": "receipts-alexanderliu-com",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 1526,
     "timeDay": 603,
@@ -16,7 +16,7 @@
     "timeMonth": 569,
     "timeYear": 1526,
     "dailyMinutesDown": {
-      "2024-01-17": 0,
+      "2024-01-17": 5,
       "2023-12-15": 9,
       "2023-09-19": 39
     }
@@ -28,9 +28,9 @@
     "slug": "alexanderliu-com-landing",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 584,
     "timeDay": 476,
@@ -38,7 +38,7 @@
     "timeMonth": 596,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 5
     }
   },
   {
@@ -48,9 +48,9 @@
     "slug": "alexanderliu-com-post",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 391,
     "timeDay": 630,
@@ -58,7 +58,7 @@
     "timeMonth": 341,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 5
     }
   },
   {
@@ -66,18 +66,20 @@
     "url": "https://alexanderliu.com/api/internal/github-profile/gif",
     "icon": "https://icons.duckduckgo.com/ip3/alexanderliu.com.ico",
     "slug": "git-hub-profile-gif",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 654,
-    "timeDay": 871,
-    "timeWeek": 767,
-    "timeMonth": 654,
-    "timeYear": 654,
-    "dailyMinutesDown": {}
+    "time": 650,
+    "timeDay": 775,
+    "timeWeek": 750,
+    "timeMonth": 650,
+    "timeYear": 650,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "Code Block Embed",
@@ -85,18 +87,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/code-block-embed.alexanderliu.dev.ico",
     "slug": "code-block-embed",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 450,
     "timeDay": 1031,
     "timeWeek": 475,
     "timeMonth": 450,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 5
     }
   }
 ]
