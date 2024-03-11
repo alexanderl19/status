@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1243,
-    "timeDay": 690,
-    "timeWeek": 588,
-    "timeMonth": 570,
-    "timeYear": 1243,
+    "time": 1239,
+    "timeDay": 531,
+    "timeWeek": 578,
+    "timeMonth": 571,
+    "timeYear": 1239,
     "dailyMinutesDown": {
       "2023-12-15": 9,
       "2023-09-19": 39
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 494,
-    "timeWeek": 461,
-    "timeMonth": 458,
-    "timeYear": 542,
+    "time": 541,
+    "timeDay": 397,
+    "timeWeek": 451,
+    "timeMonth": 456,
+    "timeYear": 541,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 429,
-    "timeWeek": 238,
-    "timeMonth": 281,
-    "timeYear": 359,
+    "time": 358,
+    "timeDay": 196,
+    "timeWeek": 233,
+    "timeMonth": 275,
+    "timeYear": 358,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,20 @@
     "url": "https://alexanderliu.com/api/internal/github-profile/gif",
     "icon": "https://icons.duckduckgo.com/ip3/alexanderliu.com.ico",
     "slug": "git-hub-profile-gif",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 783,
-    "timeWeek": 582,
-    "timeMonth": 632,
-    "timeYear": 637,
-    "dailyMinutesDown": {}
+    "time": 632,
+    "timeDay": 273,
+    "timeWeek": 483,
+    "timeMonth": 609,
+    "timeYear": 632,
+    "dailyMinutesDown": {
+      "2024-03-11": 0
+    }
   },
   {
     "name": "Code Block Embed",
@@ -85,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 362,
-    "timeWeek": 330,
-    "timeMonth": 414,
-    "timeYear": 433,
+    "time": 431,
+    "timeDay": 283,
+    "timeWeek": 313,
+    "timeMonth": 412,
+    "timeYear": 431,
     "dailyMinutesDown": {}
   }
 ]
