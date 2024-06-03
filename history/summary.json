@@ -4,18 +4,19 @@
     "url": "https://receipts.alexanderliu.com/CGjE1JTKfPfqYjueoptkq",
     "icon": "https://icons.duckduckgo.com/ip3/receipts.alexanderliu.com.ico",
     "slug": "receipts-alexanderliu-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1047,
-    "timeDay": 534,
-    "timeWeek": 595,
-    "timeMonth": 659,
+    "timeDay": 484,
+    "timeWeek": 592,
+    "timeMonth": 657,
     "timeYear": 1047,
     "dailyMinutesDown": {
+      "2024-06-03": 0,
       "2023-12-15": 9,
       "2023-09-19": 39
     }
@@ -25,54 +26,59 @@
     "url": "https://alexanderliu.com",
     "icon": "https://icons.duckduckgo.com/ip3/alexanderliu.com.ico",
     "slug": "alexanderliu-com-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 520,
-    "timeDay": 431,
-    "timeWeek": 442,
-    "timeMonth": 453,
+    "timeDay": 407,
+    "timeWeek": 441,
+    "timeMonth": 452,
     "timeYear": 520,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-03": 0
+    }
   },
   {
     "name": "alexanderliu.com Post",
     "url": "https://alexanderliu.com/post/anchoring-power-strips-at-duke-s-innovation-co-lab",
     "icon": "https://icons.duckduckgo.com/ip3/alexanderliu.com.ico",
     "slug": "alexanderliu-com-post",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 352,
-    "timeDay": 286,
-    "timeWeek": 297,
+    "timeDay": 287,
+    "timeWeek": 307,
     "timeMonth": 321,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-03": 0
+    }
   },
   {
     "name": "GitHub Profile GIF",
     "url": "https://alexanderliu.com/api/internal/github-profile/gif",
     "icon": "https://icons.duckduckgo.com/ip3/alexanderliu.com.ico",
     "slug": "git-hub-profile-gif",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 675,
-    "timeDay": 777,
-    "timeWeek": 628,
-    "timeMonth": 671,
+    "timeDay": 715,
+    "timeWeek": 643,
+    "timeMonth": 667,
     "timeYear": 675,
     "dailyMinutesDown": {
+      "2024-06-03": 0,
       "2024-04-05": 799,
       "2024-03-11": 15
     }
@@ -82,17 +88,19 @@
     "url": "https://code-block-embed.alexanderliu.dev/embed?lines=0,1,11:2,3,4,5,6,7,8,9,10&code=https://raw.githubusercontent.com/alexanderl19/code-block-embed/main/src/app.html",
     "icon": "https://icons.duckduckgo.com/ip3/code-block-embed.alexanderliu.dev.ico",
     "slug": "code-block-embed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 424,
-    "timeDay": 232,
-    "timeWeek": 275,
+    "timeDay": 246,
+    "timeWeek": 277,
     "timeMonth": 380,
     "timeYear": 424,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-03": 0
+    }
   }
 ]
