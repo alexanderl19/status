@@ -61,9 +61,9 @@
     "url": "https://alexanderliu.com/api/internal/github-profile/gif",
     "icon": "https://icons.duckduckgo.com/ip3/alexanderliu.com.ico",
     "slug": "git-hub-profile-gif",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
@@ -73,6 +73,7 @@
     "timeMonth": 694,
     "timeYear": 679,
     "dailyMinutesDown": {
+      "2024-07-09": 0,
       "2024-04-05": 799,
       "2024-03-11": 15
     }
