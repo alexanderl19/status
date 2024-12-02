@@ -13,6 +13,8 @@ sites:
     url: https://alexanderliu.com/api/internal/github-profile/gif
   - name: Code Block Embed
     url: https://code-block-embed.alexanderliu.dev/embed?lines=0,1,11:2,3,4,5,6,7,8,9,10&code=https://raw.githubusercontent.com/alexanderl19/code-block-embed/main/src/app.html
+  - name: Assets
+    url: https://assets.alexanderliu.com/assets
 
 status-website:
   theme: night
