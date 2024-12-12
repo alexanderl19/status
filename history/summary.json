@@ -100,19 +100,19 @@
     "url": "https://assets.alexanderliu.com/assets",
     "icon": "https://icons.duckduckgo.com/ip3/assets.alexanderliu.com.ico",
     "slug": "assets",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 206,
-    "timeWeek": 289,
-    "timeMonth": 297,
-    "timeYear": 297,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 302,
+    "timeDay": 261,
+    "timeWeek": 296,
+    "timeMonth": 302,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2024-12-12": 1
+      "2024-12-12": 5
     }
   }
 ]
