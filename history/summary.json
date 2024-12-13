@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 831,
-    "timeDay": 710,
+    "time": 830,
+    "timeDay": 749,
     "timeWeek": 881,
     "timeMonth": 814,
-    "timeYear": 702,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2023-12-15": 9
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 513,
-    "timeDay": 586,
+    "timeDay": 547,
     "timeWeek": 501,
-    "timeMonth": 622,
-    "timeYear": 506,
+    "timeMonth": 620,
+    "timeYear": 505,
     "dailyMinutesDown": {}
   },
   {
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 355,
-    "timeDay": 425,
-    "timeWeek": 425,
-    "timeMonth": 477,
+    "time": 354,
+    "timeDay": 446,
+    "timeWeek": 423,
+    "timeMonth": 476,
     "timeYear": 349,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 718,
-    "timeDay": 1292,
-    "timeWeek": 968,
-    "timeMonth": 883,
-    "timeYear": 718,
+    "time": 717,
+    "timeDay": 1189,
+    "timeWeek": 966,
+    "timeMonth": 876,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2024-09-27": 140,
       "2024-04-05": 799,
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 555,
-    "timeDay": 664,
+    "timeDay": 656,
     "timeWeek": 687,
-    "timeMonth": 707,
+    "timeMonth": 706,
     "timeYear": 555,
     "dailyMinutesDown": {}
   },
@@ -101,18 +101,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.alexanderliu.com.ico",
     "slug": "assets",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 302,
-    "timeDay": 261,
-    "timeWeek": 296,
-    "timeMonth": 302,
-    "timeYear": 302,
-    "dailyMinutesDown": {
-      "2024-12-12": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 304,
+    "timeDay": 293,
+    "timeWeek": 293,
+    "timeMonth": 304,
+    "timeYear": 304,
+    "dailyMinutesDown": {}
   }
 ]
