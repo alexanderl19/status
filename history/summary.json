@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 830,
-    "timeDay": 749,
-    "timeWeek": 881,
-    "timeMonth": 814,
-    "timeYear": 693,
-    "dailyMinutesDown": {
-      "2023-12-15": 9
-    }
+    "time": 826,
+    "timeDay": 721,
+    "timeWeek": 755,
+    "timeMonth": 809,
+    "timeYear": 676,
+    "dailyMinutesDown": {}
   },
   {
     "name": "alexanderliu.com Landing",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 513,
-    "timeDay": 547,
-    "timeWeek": 501,
-    "timeMonth": 620,
-    "timeYear": 505,
+    "time": 512,
+    "timeDay": 400,
+    "timeWeek": 491,
+    "timeMonth": 618,
+    "timeYear": 504,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 354,
-    "timeDay": 446,
-    "timeWeek": 423,
-    "timeMonth": 476,
+    "timeDay": 381,
+    "timeWeek": 428,
+    "timeMonth": 475,
     "timeYear": 349,
     "dailyMinutesDown": {}
   },
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 717,
-    "timeDay": 1189,
-    "timeWeek": 966,
-    "timeMonth": 876,
+    "timeDay": 609,
+    "timeWeek": 930,
+    "timeMonth": 872,
     "timeYear": 717,
     "dailyMinutesDown": {
       "2024-09-27": 140,
@@ -88,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 555,
-    "timeDay": 656,
-    "timeWeek": 687,
-    "timeMonth": 706,
-    "timeYear": 555,
+    "time": 556,
+    "timeDay": 625,
+    "timeWeek": 670,
+    "timeMonth": 674,
+    "timeYear": 556,
     "dailyMinutesDown": {}
   },
   {
@@ -106,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 293,
-    "timeWeek": 293,
-    "timeMonth": 304,
-    "timeYear": 304,
+    "time": 311,
+    "timeDay": 382,
+    "timeWeek": 304,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   }
 ]
